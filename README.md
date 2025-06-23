@@ -10,7 +10,7 @@
 
 Note: Installing untrusted mods is risky. Install at your own risk. 
 
-### New way with GMLoader-UFO50
+### Using GMLoader-UFO50 (preferred method)
 1. Download and install [GMLoader for UFO 50](https://github.com/phil-macrocheira/GMLoader-UFO50/releases)
 2. Download the unzip [.zip file](/Fist%20Heaven%20(with%20Donkus).zip) for the mod
 3. Unzip the mod and place the `Fist Heaven (with Donkus)` folder inside the `my mods` folder of GMLoader
@@ -18,7 +18,9 @@ Note: Installing untrusted mods is risky. Install at your own risk.
 5. Check the mod(s) you wish to install.
 6. Click `Install Mods`
 
-### Old way with Delta Patcher
+![UFO 50 Mod Install interface](/images/mod_install.png)
+
+### Using Delta Patcher (legacy method)
 1. Download and install [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases)
 2. Download the [.xdelta file](/fist_heaven_v.1.7.6.xdelta) for the mod
 3. Navigate to Game Files Directory - `C:\Program Files (x86)\Steam\steamapps\common\UFO 50` and find `data.win`
