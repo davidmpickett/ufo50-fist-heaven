@@ -18,7 +18,7 @@ Note: Installing untrusted mods is risky. Install at your own risk.
 5. Check the mod(s) you wish to install.
 6. Click `Install Mods`
 
-![UFO 50 Mod Install interface](/images/mod_install.png)
+![UFO 50 Mod Install interface](/images/mod-install.png)
 
 ### Using Delta Patcher (legacy method)
 1. Download and install [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases)
