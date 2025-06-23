@@ -10,11 +10,11 @@
 
 Note: Installing untrusted mods is risky. Install at your own risk. 
 
-### Using GMLoader-UFO50 (preferred method)
+### Using GMLoader for UFO50 (preferred method)
 1. Download and install [GMLoader for UFO 50](https://github.com/phil-macrocheira/GMLoader-UFO50/releases)
 2. Download the unzip [.zip file](/Fist%20Heaven%20(with%20Donkus).zip) for the mod
 3. Unzip the mod and place the `Fist Heaven (with Donkus)` folder inside the `my mods` folder of GMLoader
-4. Run UFO 50 Mod Installer.exe
+4. Run `UFO 50 Mod Installer.exe`
 5. Check the mod(s) you wish to install.
 6. Click `Install Mods`
 
